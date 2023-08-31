@@ -1,0 +1,46 @@
+body {
+    background-color: antiquewhite;
+
+}
+
+
+
+#container {
+    background-color: rgb(127, 146, 255);
+    width: 800px;
+    margin: 20px auto;
+    border: 2px solid black;
+}
+
+header {
+    text-align: center;
+}
+
+header h1 {
+ color: aliceblue;
+ text-shadow: 2px 2px 2px black;
+
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    color: black;
+    font-size: 20px;
+}
+
+Nav a:hover {
+    text-decoration: none;
+}
+
+main img {
+    display: block;
+    margin: 20px;
+    width: 300px;
+}
+
+footer {
+    text-align: center;
+}
