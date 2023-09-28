@@ -1,0 +1,117 @@
+body {
+    background-color: cadetblue;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+#container {
+    width: 65%;
+    margin: 20px auto;
+    background-color: aliceblue;
+    
+}
+
+header {
+    background-color: bisque;
+    text-align: center;
+    padding: 40px;
+
+}
+
+header h1 {
+    color: black;
+    text-shadow: 2px 2px 1px blueviolet;
+}
+
+nav {
+    background-color: brown;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+}
+nav li a {
+    background-color: aquamarine;
+    display: block;
+    width: 150px;
+    height: 40px;
+    margin: 5px;
+    line-height: 40px;
+    color: beige;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+nav li a:hover {
+    background-color: blanchedalmond;
+}
+
+
+main {
+    background-color: beige;
+    padding: 20px;
+    margin: 10px;
+
+}
+
+main img {
+    width: 40%;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    color: yellow;
+    padding: 40px 0;
+    text-align: center;
+
+}
+
+.tstyle {
+    color: blueviolet;
+    text-shadow: 1px 1px 1px black;
+}
+
+#main_section {
+    display: flex;
+}
+
+section,
+aside {
+    background-color: aqua;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+section{
+    width: 70%;
+}
+
+aside {
+    width: 30%;
+}
+
+table{
+    width: 90%;
+    display: block;
+    margin: 20px auto;
+    background-color: green;
+}
+
+tr,
+td {
+    text-align: center;
+    border: 2px solid cadetblue;
+    width: 200px;
+    height: 40px;
+}
