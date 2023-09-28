@@ -11,7 +11,7 @@ img {
 /* Phone CSS*/
 
 header {
-    background-color: green;
+    background-color: orange;
     padding: 40px 10px;
     border-radius: 10px;
 }
@@ -40,7 +40,7 @@ nav li {
 }
 
 nav li a {
-    background-color: greenyellow;
+    background-color: rgb(236, 97, 47);
     color: rgb(32, 34, 36);
     display: block;
     height: 50px;
@@ -80,7 +80,7 @@ main img {
     margin: 10px 0;
 }
 footer {
-    background-color: green;
+    background-color: rgb(236, 97, 47);
     padding: 40px 0;
     margin-top: 10px;
     border-radius: 10px;
@@ -119,7 +119,7 @@ footer {
     }
     
     nav {
-        background-color: green;
+        background-color: orange;
         margin: 10px 0;
         padding: 5px;
     }
@@ -130,7 +130,7 @@ footer {
     section,
      aside {
         margin: 10px;
-        border: 4px solid green;
+        border: 4px solid orange;
         border-radius: 10px;
     }
 
